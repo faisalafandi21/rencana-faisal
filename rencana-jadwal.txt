@@ -1,0 +1,24 @@
+Minggu Pertama
+==============
+Senin   :
+  - Persiapan Presentasi
+  - Persiapan Interview
+  - Mempelajari Git & GitHub
+Selasa  :
+  - Memperdalam Git & GitHub
+Rabu    :
+  - Mempelajari Required for Any Path (https://github.com/kamranahmedse/developer-roadmap)
+Kamis   :
+  - Memperdalam Required for Any Path (https://github.com/kamranahmedse/developer-roadmap)
+Jum'at  :
+  - Mengingat Required for Any Path (https://github.com/kamranahmedse/developer-roadmap)
++ Mengikuti jalur Front End
+  - HTML -> Learn the basics
+  - HTML -> Writing Semantic HTML
+Sabtu   :
+  - HTML -> Writing Semantic HTML
+  - HTML -> Basic SEO
+Minggu  :
+  - HTML -> Basic SEO
+  - HTML -> Accessibility
+  + Memperdalam/Mengingat HTML
