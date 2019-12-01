@@ -4,9 +4,8 @@ Front End :
   - Javascript
   * Frameword :
     - Bootstrap
-    - Literal
+    - Material
     
 Back End :
   - PHP
-  - SQL
-  - NodeJS
+  - MySQL
