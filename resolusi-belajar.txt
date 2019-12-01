@@ -3,3 +3,4 @@ Resolusi Belajar yang ingin dilakukan/dipelajari, yaitu:
   - Memperdalam HTML.
   - Mengingat kembali CSS dan memperdalamnya.
   - Mempelajari PHP dan MySQL.
+  - Mempelajari dan Memperdalam JavaScript.
