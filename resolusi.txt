@@ -3,4 +3,4 @@ Rencana Faisal di akhir tahun 2019, yaitu :
   - Membuat sebuah website dengan Wordpress/Bootstrap/Pure buatan sendiri.
   - Menjadi lebih baik lagi.
   - Menjadi lebih kompeten dan bisa mengulangi hal2 baik secara terus menerus.
-  - Mempelajari Git dan Github untuk kepentingan dimasa depan.
+  - Mempelajari Git untuk menyempurnakan penggunaan.
