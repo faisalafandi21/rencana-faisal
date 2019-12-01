@@ -1,11 +1,11 @@
 Front End :
-  - HTML,
-  - CSS,
-  - Javascript.
-  * Framework :
-    - Bootstrap,
-    - Material.
-
+  - HTML
+  - CSS
+  - Javascript
+  * Frameword :
+    - Bootstrap
+    - Material
+    
 Back End :
-  - PHP,
-  - MySQL,
+  - PHP
+  - MySQL
